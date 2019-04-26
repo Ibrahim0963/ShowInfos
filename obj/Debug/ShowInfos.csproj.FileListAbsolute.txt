@@ -1,0 +1,7 @@
+C:\Users\Laptop\source\repos\ConsoleApp4\ShowInfos\bin\Debug\ShowInfos.exe.config
+C:\Users\Laptop\source\repos\ConsoleApp4\ShowInfos\bin\Debug\ShowInfos.exe
+C:\Users\Laptop\source\repos\ConsoleApp4\ShowInfos\bin\Debug\ShowInfos.pdb
+C:\Users\Laptop\source\repos\ConsoleApp4\ShowInfos\obj\Debug\ShowInfos.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ConsoleApp4\ShowInfos\obj\Debug\ShowInfos.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp4\ShowInfos\obj\Debug\ShowInfos.exe
+C:\Users\Laptop\source\repos\ConsoleApp4\ShowInfos\obj\Debug\ShowInfos.pdb
